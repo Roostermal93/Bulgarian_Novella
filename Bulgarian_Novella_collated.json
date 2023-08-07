@@ -1,5 +1,5 @@
 {
-    "count": 5,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
@@ -25,11 +25,25 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Bulgarian/12e628e3-639c-4ae5-832b-6000acddb082_bg_Female.mp4"
         },
         {
+            "id": "6178674a-ea57-4430-8694-8e3b27727981",
+            "collectionId": "Bulgarian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Bulgarian/6178674a-ea57-4430-8694-8e3b27727981_bg_Female.mp4"
+        },
+        {
             "id": "efa8a2c0-3853-4628-b720-3c43cc240330",
             "collectionId": "Bulgarian",
             "type": "Novella",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Bulgarian/efa8a2c0-3853-4628-b720-3c43cc240330_bg_Female.mp4"
+        },
+        {
+            "id": "d4bc0af7-bc1c-4568-8f83-938e32009ad9",
+            "collectionId": "Bulgarian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Bulgarian/d4bc0af7-bc1c-4568-8f83-938e32009ad9_bg_Female.mp4"
         },
         {
             "id": "38c8167d-3b7f-4703-b937-121ebc920096",
